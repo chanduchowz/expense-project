@@ -1,0 +1,44 @@
+[
+  {
+    "date": "2026-03-02",
+    "amount": 120.0,
+    "category": "Travel",
+    "description": "Uber Auto"
+  },
+  {
+    "date": "2026-03-03",
+    "amount": 140.0,
+    "category": "Travel",
+    "description": "rapido Auto"
+  },
+  {
+    "date": "2026-03-05",
+    "amount": 378.0,
+    "category": "Travel",
+    "description": "ola car"
+  },
+  {
+    "date": "2026-03-08",
+    "amount": 140.0,
+    "category": "food",
+    "description": "car"
+  },
+  {
+    "date": "2026-03-08",
+    "amount": 5000.0,
+    "category": "travel",
+    "description": "bus"
+  },
+  {
+    "date": "2026-03-08",
+    "amount": 10000.0,
+    "category": "rent",
+    "description": "flat"
+  },
+  {
+    "date": "2026-03-08",
+    "amount": 30000.0,
+    "category": "shopping",
+    "description": "bike"
+  }
+]
